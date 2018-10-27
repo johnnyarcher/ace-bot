@@ -1,7 +1,4 @@
-# Create Probot App
-
-This project will generate a new [Probot](https://github.com/probot/probot) app 
-with everything you need to get started and run your app in production.
+# Ace
 
 > use the --typescript flag to generate a new TypeScript project
 
